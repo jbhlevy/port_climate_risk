@@ -1,12 +1,3 @@
-sector,Industries
-Agriculture,1
-Electrical and Machinery,9
-Fishing,2
-Food & Beverages,4
-Metal Products,8
-Mining and Quarrying,3
-Other Manufacturing,10
-"Petroleum, Chemical and Non-Metallic Mineral Products",7
-Textiles and Wearing Apparel,5
-Transport Equipment,11
-Wood and Paper,6
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0ff60bce724389c3d465c7939772c0f6e7ac53b667d491f000dd7a6a6b1bf96
+size 280
